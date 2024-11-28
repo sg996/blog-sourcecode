@@ -6,12 +6,27 @@
 
 ## 查看模块版本
 ```sh
-$ npm view/info <packageName> version
-$ npm view/info <packageName> versions
+$ npm view/info <PACKAGE_NAME> version
+$ npm view/info <PACKAGE_NAME> versions
 ```
+
+## 打开主页
+```sh
+$ npm home <PACKAGE_NAME>
+$ npm home vue
+$ npm home react
+```
+
+## 打开代码仓库
+```sh
+$ npm repo <PACKAGE_NAME>
+$ npm repo vue
+$ npm repo react
+```
+
 ## 检查过时的包
 ```sh
-$ npm outdated <packageName>
+$ npm outdated <PACKAGE_NAME>
 ```
 
 ## 查看本地配置参数

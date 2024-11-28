@@ -13,11 +13,16 @@ aside: false
 <kbd>勒洛三角形</kbd>
 <kbd>拉瓦尔喷管</kbd>
 <kbd>初始化</kbd>
-<kbd>开发集成环境</kbd>
+<kbd>极空间</kbd>
+<kbd>绝望之谷</kbd>
+<kbd>愚昧之巅</kbd>
+<kbd>自由自愿阅读</kbd>
+<kbd>可理解性输入</kbd>
+<kbd>和光同尘</kbd>
 
 <style scoped>
-    kbd{
-        margin: 0 10px 10px 0; 
+    kbd {
+        margin: 0 10px 10px 0;
         font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
         color: #2c3e50;
         background: #eeeeee;
