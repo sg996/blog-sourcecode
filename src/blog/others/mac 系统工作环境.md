@@ -139,12 +139,14 @@ $ brew install --cask obsidian
 $ brew install --cask android-studio
 $ brew install --cask android-platform-tools
 $ brew install --cask picgo
+$ brew install loop
 ```
 
 - ✅ [VS Code](https://code.visualstudio.com/)
    - 登录账号同步数据
 - ✅ [Hbuilder X](https://www.dcloud.io/hbuilderx.html)
 - ✅ [Android Studio](https://developer.android.com/studio?hl=zh-cn)
+- ✅ [GitHub Cli](https://cli.github.com/)
 
 ## 💻️ 开发环境
 
@@ -212,17 +214,18 @@ $ npm i -g @antfu/ni
 - ✅ [Arc](https://arc.net/) - 浏览器
 - ✅ [iShot Pro](https://apps.apple.com/cn/app/ishot-pro-%E4%B8%93%E4%B8%9A%E7%9A%84%E6%88%AA%E5%9B%BE%E8%B4%B4%E5%9B%BE%E5%BD%95%E5%B1%8F%E5%BD%95%E9%9F%B3ocr%E7%BF%BB%E8%AF%91%E5%8F%96%E8%89%B2%E5%B7%A5%E5%85%B7/id1611347086?mt=12) - 专业的截图贴图录屏录音 OCR 翻译取色工具
 - ✅ [右键助手专业版](https://apps.apple.com/cn/app/%E5%8F%B3%E9%94%AE%E5%8A%A9%E6%89%8B%E4%B8%93%E4%B8%9A%E7%89%88/id1555844307?mt=12) - 超丰富的右键菜单
-- ❎ [Raycast](https://www.raycast.com/) - 一个为 mac 设计的高效生产力工具
-- ❎ [CleanMyMac X](https://cleanmymac.com/) - mac 清洁应用程序
+- ✅ [Raycast](https://www.raycast.com/) - 一个为 mac 设计的高效生产力工具
+- ✅ [Loop](https://github.com/MrKai77/Loop) - 简化窗口管理
+- ✅ [Browserosaurus](https://browserosaurus.com/) - 适用于 mac 多浏览器用户
+- ✅ [CleanMyMac X](https://cleanmymac.com/) - mac 清洁应用程序
 - ✅ [Kap](https://getkap.co/) - GIF 录制
 - ✅ [The Unarchiver](https://theunarchiver.com/) - 解压工具
 - ✅ [IINA](https://iina.io/) - 现代媒体播放器
 - ✅ [ClashX Pro](https://github.com/yichengchen/clashX) - 简单轻量化的代理客户端
 - ✅ [Obsidian](https://obsidian.md/) - 是一款私密且灵活的写作应用程序
 - ✅ [Command X](https://sindresorhus.com/command-x) - 在 Finder 中剪切和粘贴文件
-- ✅ [keycastr](https://github.com/keycastr/keycastr) - 一个开源的按键可视化工具
-- ✅ [键指如飞](https://www.better365.cn/FlyKey.html)
-- ✅ [Picture View](https://wl879.github.io/apps/picview/) - mac 图片浏览应用
+- ✅ [KeyCastr](https://github.com/keycastr/keycastr) - 一个开源的按键可视化工具
+- ❎ [Picture View](https://wl879.github.io/apps/picview/) - mac 图片浏览应用
 - ✅ [PicGo](https://molunerfinn.com/PicGo/) - 图片上传+管理新体验
 - ✅ [多邻国](https://apps.apple.com/cn/app/%E5%A4%9A%E9%82%BB%E5%9B%BDduolingo%E8%8B%B1%E8%AF%AD%E6%97%A5%E8%AF%AD%E6%B3%95%E8%AF%AD/id570060128) - 全球数亿语言学习者的口碑选择
 - ✅ [万词王](https://apps.apple.com/cn/app/%E4%B8%87%E8%AF%8D%E7%8E%8B-%E8%A7%86%E9%A2%91%E8%83%8C%E5%8D%95%E8%AF%8D%E5%AD%A6%E8%8B%B1%E8%AF%AD%E5%BF%85%E5%A4%87app/id1464643633) - 视频背单词学英语必备APP
@@ -234,5 +237,8 @@ $ npm i -g @antfu/ni
 ## ♻️ 资源平台
 
 - ✅ [macOSicons](https://macosicons.com/) - 更换 mac 应用图标
-- ❎ [马可菠萝](https://www.macbl.com/) - 分享你喜欢的 mac 应用
+- ✅ [麦软网](https://www.mairuan.com/) - 专业正版低价软件
+- ✅ [数码荔枝](https://lizhi.shop/) - 专注于分享最新鲜优秀的正版软件
+- ✅ [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+- ❎ [MacKed](https://macked.app/) - 专注于mac软件分享与下载
 - ❎ [MacApp分享频道](https://macapp.org.cn/)

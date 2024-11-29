@@ -1,6 +1,5 @@
 # 电脑系统相关整理
 
-
 ## 查看 IP 地址
 - `window`中在 cmd 中输入
 ```sh
@@ -36,7 +35,7 @@ $ ifconfig
 | 电脑桌面关机/退出应用 | <kbd>Alt</kbd> + <kbd>F4</kbd>（+ <kbd>Fn</kbd>） |
 | 鼠标右键 | <kbd>Shift</kbd> + <kbd>F10</kbd>（+ <kbd>Fn</kbd>） |
 | 永久删除所选项 | <kbd>Shift</kbd> + <kbd>Delete</kbd> |
-| 电脑快速重新启动 | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Delete</kbd> |
+| 电脑快速重新启动 | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Delete</kbd> |
 | 打开任务管理器 | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Esc</kbd> |
 | 电脑锁屏 | <kbd>Windows</kbd> + <kbd>L</kbd> |
 | 电脑打开“我的电脑” | <kbd>Windows</kbd> + <kbd>E</kbd> |

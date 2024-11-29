@@ -8,6 +8,7 @@ export default antfu({
     'no-extend-native': 'off',
     'no-sparse-arrays': 'off',
     'no-prototype-builtins': 'off',
+    'no-irregular-whitespace': 'off',
     'no-new': 'off',
   },
 })
